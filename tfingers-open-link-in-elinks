@@ -1,0 +1,5 @@
+#!/bin/bash
+
+s="$(cat)"
+
+tmux new-window -n elinks "webSearchScript duck $s"
