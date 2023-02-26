@@ -2,4 +2,4 @@
 
 s="$(cat)"
 
-tmux new-window -n elinks "webSearchScript duck $s"
+tmux new-window -n elinks "webSearchScript --browser elinks --engine duck -"
