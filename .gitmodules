@@ -1,3 +1,6 @@
 [submodule "plugins/tpm"]
 	path = plugins/tpm
 	url = https://github.com/tmux-plugins/tpm
+[submodule "plugins/tmux-fingers"]
+	path = plugins/tmux-fingers
+	url = https://git::@github.com/Morantron/tmux-fingers
