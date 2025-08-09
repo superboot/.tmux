@@ -4,3 +4,6 @@
 [submodule "plugins/tmux-fingers"]
 	path = plugins/tmux-fingers
 	url = https://git::@github.com/Morantron/tmux-fingers
+[submodule "plugins/tmux-yank"]
+	path = plugins/tmux-yank
+	url = https://github.com/tmux-plugins/tmux-yank.git
